@@ -1,0 +1,89 @@
+---
+booktitle: Proceedings of the Machine Learning for Health NeurIPS Workshop
+shortname: ML4H
+volume: 136
+year: '2020'
+start: 2020-12-11
+end: 2020-12-11
+published: 2020-11-23
+url: http://proceedings.mlr.press
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ML4H-2020
+month: 0
+cycles: false
+bibtex_editor: Alsentzer, Emily and McDermott, Matthew B. A. and Falck, Fabian and
+  Sarkar, Suproteem K. and Roy, Subhrajit and Hyland, Stephanie L.
+editor:
+- given: Emily
+  family: Alsentzer
+- given: Matthew B. A.
+  family: McDermott
+- given: Fabian
+  family: Falck
+- given: Suproteem K.
+  family: Sarkar
+- given: Subhrajit
+  family: Roy
+- given: Stephanie L.
+  family: Hyland
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Machine Learning for Health NeurIPS Workshop
+    Held in Virtual on 11 December 2020
+
+  Published as Volume 136 by the Proceedings of Machine Learning Research on 23 November 2020.
+
+  Volume Edited by:
+    Emily Alsentzer
+    Matthew B. A. McDermott
+    Fabian Falck
+    Suproteem K. Sarkar
+    Subhrajit Roy
+    Stephanie L. Hyland
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 11 Dec
+author:
+  name: PMLR
+baseurl: "/v136"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v136
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Machine Learning for Health
+  url: 
+  location: Virtual
+  dates:
+  - 2020-12-11
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v136/ml4h20.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v136/ml4h20.bib
